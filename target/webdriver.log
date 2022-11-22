@@ -1,0 +1,368 @@
+INFO 23:47:31:014 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 23:47:31:032 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 23:48:34:320 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 23:48:34:336 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 23:50:01:466 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 23:50:01:484 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 23:53:44:646 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 23:53:44:667 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 23:54:28:815 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 23:54:28:837 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 23:54:50:865 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 23:54:50:885 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 23:58:19:354 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 23:58:19:374 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 00:00:46:083 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 00:00:46:101 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 00:03:55:217 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 00:03:55:234 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 00:06:09:008 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 00:06:09:024 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 00:06:42:901 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 00:06:42:918 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 00:15:57:588 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 00:15:57:605 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 00:21:38:209 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 00:21:38:225 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 00:22:07:501 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 00:22:07:518 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 00:22:56:113 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 00:22:56:129 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 00:25:37:403 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 00:25:37:419 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 00:26:21:609 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 00:26:21:625 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 00:27:03:874 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 00:27:03:892 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 00:28:00:478 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 00:28:00:495 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 00:30:19:396 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 00:30:19:412 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 00:32:28:288 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 00:32:28:306 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 00:33:57:338 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 00:33:57:354 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 00:34:30:132 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 00:34:30:150 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 00:35:05:529 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 00:35:05:545 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 00:41:18:799 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 00:41:18:818 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 00:45:24:060 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 00:45:24:078 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 00:46:39:600 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 00:46:39:619 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 00:47:16:388 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 00:47:16:405 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 00:49:47:378 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 00:49:47:395 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 00:50:17:001 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 00:50:17:018 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 00:50:38:426 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 00:50:38:443 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 00:51:24:738 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 00:51:24:753 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 00:53:44:545 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 00:53:44:561 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 00:54:42:471 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 00:54:42:488 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 01:05:54:383 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 01:05:54:403 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 01:08:26:102 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 01:08:26:120 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 01:10:24:960 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 01:10:24:975 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 01:11:33:976 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 01:11:33:996 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 01:13:10:343 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 01:13:10:361 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 01:15:33:677 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 01:15:33:695 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 01:20:37:958 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 01:20:37:975 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 01:21:09:810 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 01:21:09:827 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 01:22:04:032 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 01:22:04:050 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 01:24:53:882 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 01:24:53:899 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 01:33:07:169 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 01:33:07:187 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 01:33:48:865 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 01:33:48:882 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 01:34:59:256 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 01:34:59:278 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 01:38:06:401 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 01:38:06:420 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 01:41:56:366 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 01:41:56:384 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 01:45:03:412 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 01:45:03:434 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 02:16:21:441 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 02:16:21:460 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 02:43:25:911 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 02:43:25:933 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 02:45:03:361 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 02:45:03:381 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 02:45:47:295 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 02:45:47:313 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 02:46:54:232 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 02:46:54:250 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 02:50:36:599 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 02:50:36:621 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 02:51:38:996 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 02:51:39:015 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 02:52:15:649 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 02:52:15:667 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 02:52:42:015 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 02:52:42:033 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 02:59:07:729 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 02:59:07:751 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 02:59:32:509 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 02:59:32:527 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 03:00:08:929 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 03:00:08:948 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 03:02:36:243 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 03:02:36:261 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 03:03:12:971 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 03:03:12:989 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 03:03:49:413 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 03:03:49:430 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 03:04:32:731 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 03:04:32:747 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 03:05:08:004 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 03:05:08:022 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 03:05:42:907 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 03:05:42:925 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 03:06:23:686 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 03:06:23:703 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 03:07:39:236 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 03:07:39:252 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 03:14:01:867 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 03:14:01:887 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 03:14:34:334 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 03:14:34:352 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 03:15:30:151 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 03:15:30:168 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 03:17:09:606 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 03:17:09:624 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 03:17:43:006 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 03:17:43:025 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 03:18:15:580 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 03:18:15:597 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 03:18:46:220 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 03:18:46:239 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 03:19:15:305 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 03:19:15:322 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 03:19:42:901 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 03:19:42:920 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 03:20:12:808 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 03:20:12:825 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 03:24:05:685 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 03:24:05:704 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 03:32:33:838 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 03:32:33:856 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 03:34:23:450 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 03:34:23:470 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 03:35:24:276 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 03:35:24:294 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 03:36:08:805 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 03:36:08:825 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 03:37:42:323 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 03:37:42:340 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 03:40:18:867 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 03:40:18:886 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 03:42:11:146 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 03:42:11:166 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 03:43:19:650 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 03:43:19:668 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 12:01:45:484 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 12:01:45:501 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 12:04:10:211 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 12:04:10:229 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 12:07:51:972 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 12:07:51:990 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 12:10:03:799 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 12:10:03:816 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 12:13:50:635 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 12:13:50:652 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 12:25:18:341 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 12:25:18:360 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 12:34:56:024 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 12:34:56:046 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 12:57:06:446 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 12:57:06:465 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 13:01:32:811 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 13:01:32:829 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 13:02:13:090 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 13:02:13:109 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 13:08:08:786 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 13:08:08:803 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 13:11:34:402 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 13:11:34:421 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 13:12:47:780 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 13:12:47:797 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 13:14:35:932 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 13:14:35:950 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 13:16:06:254 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 13:16:06:272 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 13:19:55:038 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 13:19:55:066 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 13:24:10:629 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 13:24:10:648 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 13:24:38:109 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 13:24:38:127 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 13:35:11:805 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 13:35:11:827 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 13:39:41:209 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 13:39:41:229 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 13:41:35:808 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 13:41:35:828 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 13:42:40:163 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 13:42:40:183 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 13:46:36:641 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 13:46:36:660 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 13:47:56:220 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 13:47:56:240 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 13:57:09:895 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 13:57:09:915 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 13:58:08:114 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 13:58:08:132 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 14:12:58:564 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 14:12:58:585 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 14:29:18:318 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 14:29:18:336 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 14:30:46:900 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 14:30:46:918 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 14:32:00:145 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 14:32:00:164 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 14:33:05:930 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 14:33:05:949 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 14:50:21:468 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 14:50:21:490 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 14:51:29:110 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 14:51:29:131 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 14:59:26:218 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 14:59:26:238 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 15:16:33:610 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 15:16:33:631 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 15:17:27:128 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 15:17:27:145 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 15:26:41:285 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 15:26:41:305 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 15:27:25:956 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 15:27:25:973 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 15:28:22:812 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 15:28:22:829 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 15:33:18:468 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 15:33:18:488 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 15:34:17:076 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 15:34:17:095 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 15:36:02:605 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 15:36:02:627 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 15:36:05:372 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 15:36:05:379 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 15:51:00:998 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 15:51:01:019 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 15:51:32:093 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 15:51:32:100 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 15:54:12:897 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 15:54:12:921 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 15:54:31:503 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 15:54:31:523 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 15:55:00:530 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 15:55:00:536 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 15:57:19:955 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 15:57:19:972 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 15:57:50:177 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 15:57:50:183 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 16:00:15:555 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 16:00:15:573 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 16:00:53:816 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 16:00:53:823 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 16:03:15:502 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 16:03:15:520 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 16:03:46:454 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 16:03:46:461 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 16:05:16:839 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 16:05:16:858 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 16:05:37:226 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 16:05:37:244 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 16:06:06:049 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 16:06:06:055 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 16:06:53:851 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 16:06:53:869 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 16:09:36:969 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 16:09:36:989 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 16:10:09:655 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 16:10:09:662 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 16:13:14:548 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 16:13:14:567 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 16:13:47:229 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 16:13:47:236 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 16:15:22:520 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 16:15:22:540 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 16:15:56:633 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 16:15:56:641 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 16:17:09:865 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 16:17:09:884 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 16:17:42:711 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 16:17:42:716 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 16:18:30:765 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 16:18:30:784 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 16:19:07:074 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 16:19:07:080 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 16:20:54:946 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 16:20:54:962 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 16:21:22:628 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 16:21:22:634 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 16:27:53:317 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 16:27:53:336 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 16:28:23:598 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 16:28:23:604 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 16:30:58:110 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 16:30:58:126 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 16:31:27:256 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 16:31:27:263 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 16:33:33:144 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 16:33:33:164 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 16:34:02:586 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 16:34:02:593 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 17:06:51:246 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 17:06:51:270 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 17:13:51:376 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 17:13:51:400 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 17:14:47:704 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 17:14:47:723 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 17:28:16:306 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 17:28:16:327 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 17:29:48:230 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 17:29:48:252 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 17:37:56:008 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 17:37:56:029 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 17:38:14:867 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 17:38:14:886 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 17:38:17:373 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 17:38:17:377 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 17:38:43:517 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 17:38:43:536 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 17:39:14:294 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 17:39:14:299 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 17:40:17:807 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 17:40:17:826 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 17:40:39:265 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 17:40:39:283 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 17:41:40:286 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 17:41:40:305 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 19:27:15:050 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 19:27:15:072 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 19:29:32:642 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 19:29:32:664 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 19:30:13:291 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 19:30:13:313 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 22:31:52:967 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 22:31:52:994 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 22:32:25:703 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 22:32:25:708 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 23:09:20:590 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 23:09:20:612 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
