@@ -4,6 +4,7 @@ To Run this project you need few preconditions
     a. Zoom.apk
     b. LinkedIn.app
 3. Please use Intellij to Run
+4. For project related configuration, please do check "src/test/resources/cucumber.properties"
 
 
 To Run FrontEnd Automation
