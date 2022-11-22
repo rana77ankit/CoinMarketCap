@@ -1,2 +1,22 @@
+To Run this project you need few preconditions
+1. Chrome installed on latest build
+2. Android Studio/Physical device installed with below application
+    a. Zoom.apk
+    b. LinkedIn.app
+3. Please use Intellij to Run
 
+
+To Run FrontEnd Automation
+1. Go to file "src/test/java/features/webAutomation.feature"
+2. Click on run "Feature: Mobile Tasks"
+
+To Run Mobile Automation
+1. Go to file "src/test/java/features/mobileAutomation.feature"
+2. Click on run "Feature: Frontend Tasks"
+Note: As LinkedIn app some issue, so I haven't compelete it entirely
+
+
+To Run Backend Tasks
+1. Go to file "src/test/java/features/restAPIAutomation.feature"
+2. Click on run "Feature: Backend Tasks
 
