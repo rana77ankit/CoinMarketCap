@@ -368,3 +368,15 @@ INFO 23:09:20:590 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedri
 INFO 23:09:20:612 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
 INFO 11:56:28:794 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
 INFO 11:56:28:828 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 21:20:33:453 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 21:20:33:491 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 21:21:07:983 wdm.WebDriverManager resolveDriverVersion:1197 Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+INFO 21:21:07:987 wdm.WebDriverManager exportDriver:1252 Exporting webdriver.chrome.driver as /Users/ankit.rana/.cache/selenium/chromedriver/mac64/107.0.5304.62/chromedriver
+INFO 22:39:06:844 internal.Utils info:112 [TestNG] Running:
+  /Users/ankit.rana/Library/Caches/JetBrains/IdeaIC2021.3/temp-testng-customsuite.xml
+
+WARN 22:39:07:270 internal.Utils warn:133 The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 
+INFO 22:51:07:502 internal.Utils info:112 [TestNG] Running:
+  /Users/ankit.rana/Library/Caches/JetBrains/IdeaIC2021.3/temp-testng-customsuite.xml
+
+WARN 22:51:07:961 internal.Utils warn:133 The test method 'io.cucumber.testng.AbstractTestNGCucumberTests.runScenario' will be skipped since its data provider 'scenarios' returned an empty array or iterator. 

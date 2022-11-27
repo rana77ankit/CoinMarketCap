@@ -6,7 +6,7 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 import java.util.ArrayList;
 import java.util.Date;
 
-public class _5 {
+public class _6 {
 
     public int id;
     public String name;
