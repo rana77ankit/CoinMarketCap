@@ -1,12 +1,12 @@
 package POJO.mineable.crypto;
 
-import POJO.info.ContractAddress;
 import POJO.info.Urls;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 import java.util.ArrayList;
+import java.util.Date;
 
-public class PPC {
+public class _8 {
 
     public int id;
     public String name;
@@ -26,15 +26,14 @@ public class PPC {
 
     public Urls urls;
     public Object platform;
-    public String date_added;
+    public Date date_added;
     public String twitter_username;
     public int is_hidden;
     public Object date_launched;
-    public ArrayList<ContractAddress> contract_address;
+    public ArrayList<Object> contract_address;
     public Object self_reported_circulating_supply;
     public Object self_reported_tags;
     public Object self_reported_market_cap;
-
 
     public int getId() {
         return id;
@@ -148,11 +147,11 @@ public class PPC {
         this.platform = platform;
     }
 
-    public String getDate_added() {
+    public Date getDate_added() {
         return date_added;
     }
 
-    public void setDate_added(String date_added) {
+    public void setDate_added(Date date_added) {
         this.date_added = date_added;
     }
 
@@ -180,11 +179,11 @@ public class PPC {
         this.date_launched = date_launched;
     }
 
-    public ArrayList<ContractAddress> getContract_address() {
+    public ArrayList<Object> getContract_address() {
         return contract_address;
     }
 
-    public void setContract_address(ArrayList<ContractAddress> contract_address) {
+    public void setContract_address(ArrayList<Object> contract_address) {
         this.contract_address = contract_address;
     }
 
