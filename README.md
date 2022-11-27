@@ -4,7 +4,7 @@ To Run this project you need few preconditions
     a. Zoom.apk
     b. LinkedIn.app
 3. Please use Intellij to Run
-4. For project related configuration, please do check "src/test/resources/data/properties/config.properties"
+4. For project related configuration, please do check "src/test/resources/config.properties"
 
 
 To Run FrontEnd Automation
@@ -24,3 +24,5 @@ To Run Backend Tasks
 
 To Check report open below link:
 http://localhost:63342/CoinMarketCap/target/report.html
+
+Note: Please run test cases from the feature file.
