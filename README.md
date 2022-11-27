@@ -21,3 +21,6 @@ To Run Backend Tasks
 1. Go to file "src/test/java/features/restAPIAutomation.feature"
 2. Click on run "Feature: Backend Tasks
 
+
+To Check report open below link:
+http://localhost:63342/CoinMarketCap/target/report.html
