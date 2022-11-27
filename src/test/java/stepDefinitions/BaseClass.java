@@ -12,7 +12,7 @@ public class BaseClass {
 
 
 	// --------------Creating ConfigProperties File-----------------
-	public static File file = new File("./src/test/resources/data/properties/config.properties");
+	public static File file = new File("./src/test/resources/config.properties");
 	public static FileInputStream fis = null;
 	public static Properties prop = new Properties();
 
